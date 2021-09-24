@@ -1,0 +1,13 @@
+h1{background-color:crimson;
+    color: aquamarine;
+    font-family: sans-serif;
+    display:flex;
+    justify-content: center;
+
+}
+nav{
+    background-color: rgb(160 32 232 / 49%);
+}
+.avi{
+    background-image: url("pic.jpg");
+}
